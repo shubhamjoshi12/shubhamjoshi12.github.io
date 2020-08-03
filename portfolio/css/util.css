@@ -1,0 +1,35 @@
+.flex{
+	display: flex;
+}
+.item-center{
+	align-items: center;
+}
+.just{
+	justify-content: space-between;
+}
+.btn{
+	padding: 0.8rem 3rem;
+	font-size: 1rem;
+	font-size: 600;
+	border: 2px solid transparent;
+	outline: none;
+	cursor: pointer;
+}
+.btnp{
+	 
+	 
+	background: #3DCFD3
+}
+.btns{
+	background: transparent;
+	color: #3DCFD3;
+	border-color: #3DCFD3;
+}
+
+.btns:hover{
+	background: #3DCFD3;
+	color:#898989;;
+}
+.flex-1{
+	flex:1;
+}
